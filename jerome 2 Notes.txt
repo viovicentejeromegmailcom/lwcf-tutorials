@@ -3,6 +3,13 @@ Hellow World
 Hello Carri
 
 
+CLONING
+git clone URL
+git clone https://github.com/viovicentejeromegmailcom/lwcf-tutorials.git
+
+
+UPDATES/MODIFY
+
 Step 1. do any updates
 Step 2. check changes - git status
 Step 3. Add to stage - git add (specific file or all changes (*))
@@ -12,3 +19,4 @@ Step 6. push origin - git push origin branch
 Jerome first
 
 Step 7.
+Step 8. 
