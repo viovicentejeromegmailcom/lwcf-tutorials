@@ -9,3 +9,4 @@ Step 3. Add to stage - git add (specific file or all changes (*))
 Step 4. Check if stage - git status
 Step 5. Commit changes - git commit -m ''       -m means message
 Step 6. push origin - git push origin branch 
+Jerome first
